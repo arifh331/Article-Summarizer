@@ -20,3 +20,5 @@ redux toolkit to make api requests in a structured scalable way
 article.js is one part of our global state or store
 
 how to configure redux tool kit store from redux documentation was learned
+
+api used:https://rapidapi.com/restyler/api/article-extractor-and-summarizer

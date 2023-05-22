@@ -7,7 +7,7 @@ function Hero() {
       <nav className='flex justify-between items-center w-full flex-row mb-10 pt-3'>
         <img src={logo} alt='Sum-logo' className='w-28 object-contain'/>
 
-        <button onClick={()=>window.open('https://github.com/arifh331')} className='black_btn'>
+        <button onClick={()=>window.open('https://github.com/arifh331/Article-Summarizer')} className='black_btn'>
             GitHub
         </button>
 
