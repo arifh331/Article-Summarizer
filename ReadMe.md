@@ -45,3 +45,5 @@ Click on the [live link](https://artsummarize.netlify.app/) provided to access t
 *Note: Please keep in mind that the A.I Article Summarizer is powered by OpenAI's GPT-4, and its performance and availability may depend on the underlying infrastructure and API limitations.*
 
 Feel free to explore, provide feedback, and make the most of this tool for your research and learning endeavors!
+
+## If there are any problems contact me at ah3288@nyu.edu
