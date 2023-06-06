@@ -40,7 +40,7 @@ The A.I Article Summarizer is built using the following technologies:
 
 ## Try It Out!
 
-Click on the [live link](https://artsummarize.netlify.app/) provided to access the A.I Article Summarizer web application and start generating summaries for articles and web pages. Enjoy the convenience of concise information at your fingertips!
+Click on the [live link](https://aisumm.netlify.app/) provided to access the A.I Article Summarizer web application and start generating summaries for articles and web pages. Enjoy the convenience of concise information at your fingertips!
 
 *Note: Please keep in mind that the A.I Article Summarizer is powered by OpenAI's GPT-4, and its performance and availability may depend on the underlying infrastructure and API limitations.*
 
